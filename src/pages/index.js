@@ -39,7 +39,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>ウアア！！</title>
+        <title>ウアア.com</title>
         <meta name="description" content="HP作成会用のサンプルページ" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
@@ -69,7 +69,7 @@ export default function Home() {
               mr="auto"
               ml="90px"
             >
-              あなたのデバイスはウイルスに観戦しまさした！！やるな笑笑
+              平家物語
             </Text>
             <Flex mr="90px">
               <Text mr="40px" fontWeight={"bold"}>
@@ -79,7 +79,7 @@ export default function Home() {
             </Flex>
           </Flex>
         </Box>
-        <Box h="100vh" w="100vw" className="blue">
+        <Box h="100vh" w="100vw" className="unkoman">
           <Flex
             justifyContent={"center"}
             alignItems={"center"}
@@ -91,18 +91,18 @@ export default function Home() {
               h="100px"
               w="100px"
               borderRadius="50%"
-              className="pat2"
+              className="pat4"
               opacity={"0.8"}
-              mb="20px"
+              mb="5px"
             ></Box>
             <Text
-              fontSize="35px"
-              letterSpacing="0.08rem"
+              fontSize="50px"
+              letterSpacing="0.01rem"
               fontWeight="bold"
               color="gray.800"
               className="text shadow"
             >
-This video has been deleted.
+ここで💩はエグイてぇ！！！！！！！！！！！！！！笑笑笑笑
             </Text>
           </Flex>
         </Box>
@@ -137,8 +137,8 @@ This video has been deleted.
                 </Text>
               </Box>
               <Image
-                src="https://images.unsplash.com/photo-1680913526064-d49073fc58f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
-                width={"600px"}
+                src="https://1.bp.blogspot.com/-EGQiXxfkfQA/U5gFr1g8qHI/AAAAAAAAhDM/17wwYnxWmHE/s450/otaku.png"
+                width={"500px"}
               />
             </Flex>
             <ScrollAnimation />
@@ -228,7 +228,7 @@ This video has been deleted.
               letterSpacing={"0.05rem"}
               color="#333333"
             >
-              OOOOOOOOOOOOOOOOOOOOOOOOw
+              ウアア（笑）
             </Text>
           </Flex>
         </Box>
