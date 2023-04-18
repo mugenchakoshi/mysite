@@ -91,7 +91,7 @@ export default function Home() {
               h="100px"
               w="100px"
               borderRadius="50%"
-              className="pat1"
+              className="pat2"
               opacity={"0.8"}
               mb="20px"
             ></Box>
@@ -250,7 +250,7 @@ This video has been deleted.
               h="90px"
               w="90px"
               borderRadius="50%"
-              className="pat1"
+              className="pat2"
               opacity={"0.8"}
               mb="20px"
             ></Box>
